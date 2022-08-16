@@ -1,0 +1,11 @@
+.idea/
+venv/
+__pycache__/
+#if program is run from editor
+quasarModel/QuasarModelLog
+quasarModel/precisions.csv
+quasarModel/parameters.csv
+# if program is run from command line
+QuasarModelLog
+precisions.csv
+parameters.csv
